@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #fff0be;
+    overflow: hidden;
+}
+
+img {
+    display: inline-block;
+    margin: 0 auto;
+    max-height: 100vh;
+    max-width: 100%;
+    width: 500px;
+    height: auto;
+    overflow: hidden;
+}
